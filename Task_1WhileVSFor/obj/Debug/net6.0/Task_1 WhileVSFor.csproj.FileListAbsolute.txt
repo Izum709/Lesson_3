@@ -1,0 +1,15 @@
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 WhileVSFor\bin\Debug\net6.0\Task_1 WhileVSFor.exe
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 WhileVSFor\bin\Debug\net6.0\Task_1 WhileVSFor.deps.json
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 WhileVSFor\bin\Debug\net6.0\Task_1 WhileVSFor.runtimeconfig.json
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 WhileVSFor\bin\Debug\net6.0\Task_1 WhileVSFor.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 WhileVSFor\bin\Debug\net6.0\Task_1 WhileVSFor.pdb
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 WhileVSFor\obj\Debug\net6.0\Task_1 WhileVSFor.csproj.AssemblyReference.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 WhileVSFor\obj\Debug\net6.0\Task_1 WhileVSFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 WhileVSFor\obj\Debug\net6.0\Task_1 WhileVSFor.AssemblyInfoInputs.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 WhileVSFor\obj\Debug\net6.0\Task_1 WhileVSFor.AssemblyInfo.cs
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 WhileVSFor\obj\Debug\net6.0\Task_1 WhileVSFor.csproj.CoreCompileInputs.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 WhileVSFor\obj\Debug\net6.0\Task_1 WhileVSFor.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 WhileVSFor\obj\Debug\net6.0\refint\Task_1 WhileVSFor.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 WhileVSFor\obj\Debug\net6.0\Task_1 WhileVSFor.pdb
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 WhileVSFor\obj\Debug\net6.0\Task_1 WhileVSFor.genruntimeconfig.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 WhileVSFor\obj\Debug\net6.0\ref\Task_1 WhileVSFor.dll

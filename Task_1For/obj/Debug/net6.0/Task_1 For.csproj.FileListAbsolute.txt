@@ -1,0 +1,15 @@
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 For\obj\Debug\net6.0\Task_1 For.csproj.AssemblyReference.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 For\obj\Debug\net6.0\Task_1 For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 For\obj\Debug\net6.0\Task_1 For.AssemblyInfoInputs.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 For\obj\Debug\net6.0\Task_1 For.AssemblyInfo.cs
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 For\obj\Debug\net6.0\Task_1 For.csproj.CoreCompileInputs.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 For\bin\Debug\net6.0\Task_1 For.exe
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 For\bin\Debug\net6.0\Task_1 For.deps.json
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 For\bin\Debug\net6.0\Task_1 For.runtimeconfig.json
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 For\bin\Debug\net6.0\Task_1 For.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 For\bin\Debug\net6.0\Task_1 For.pdb
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 For\obj\Debug\net6.0\Task_1 For.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 For\obj\Debug\net6.0\refint\Task_1 For.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 For\obj\Debug\net6.0\Task_1 For.pdb
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 For\obj\Debug\net6.0\Task_1 For.genruntimeconfig.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_3\Task_1 For\obj\Debug\net6.0\ref\Task_1 For.dll
